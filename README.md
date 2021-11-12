@@ -58,6 +58,7 @@ Libraries to use: Tensorflow
 - Would there be a way to obtain the lifetime of a quote (first and last emission date) ? We were also wondering if there would be an efficient way to run through all years and see if one “famous” or “non-famous” quote is present in different datasets/years ?
 Indeed, it would be interesting to distinguish quotes that make the buzz at a given time point from an everlasting quote across generations. 
 - Is there a way to assess when a person became famous, if it is before the emission date of the quote ? Is there a way to group occupations together ?
+- Sometimes we have several wikidata entities for occupation or nationality for instance, how can we combine them to have only one label in this case? Is it coherent to keep only the first label in the list? Are they ranked by importance somehow?
 
 
 
