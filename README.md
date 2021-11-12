@@ -36,6 +36,7 @@ Libraries to use: nltk and gensim
 Libraries to use: Tensorflow
 
 # Timeline
+![TIMELINE.jpg](https://your-copied-image-address)
 
 
 
